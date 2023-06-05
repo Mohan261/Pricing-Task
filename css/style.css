@@ -181,12 +181,12 @@ span{
 	color:#fff;
 }
 
-/* .card:hover .card_top{ */
-	/* background-color:rgb(6 128 235); */
-/* } */
-/* .card:hover .card_top h2{ */
-	/* color:#fff; */
-/* } */
+.card:hover .card_top{
+	background-color:rgb(6 128 235);
+}
+.card:hover .card_top h2{
+	color:#fff;
+}
 .advanced{
 	background-color: rgb(6 128 235);
     width: 120px;
